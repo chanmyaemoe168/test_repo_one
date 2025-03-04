@@ -1,5 +1,7 @@
 # Compiled class file
 .settings
+.project
+.classpath
 temp/
 *.class
 
