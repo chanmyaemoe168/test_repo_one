@@ -1,4 +1,6 @@
 # Compiled class file
+.settings
+temp/
 *.class
 
 # Log file
